@@ -19,6 +19,15 @@ IA           → ChatGPT · Gemini · Claude · Sora · NoteBook LM · NanoBanan
 
 ## 🗂️ Projets
 
+### 🤖 Bots Discord autonomes (Python)
+> Création de bots Discord autonomes pour le suivi de prix Amazon (multi-pays) et la veille d'annonces Vinted filtrées par conditions.
+
+- Scraping de prix Amazon sur plusieurs marchés (FR, DE, ES…)
+- Récupération et filtrage d'annonces Vinted selon des critères personnalisés
+- Notifications automatiques sur Discord
+
+---
+
 ### 🗺️ Recommandateur de quartiers lyonnais
 > Application web de recommandation de quartiers à Lyon
 
@@ -86,4 +95,4 @@ IA           → ChatGPT · Gemini · Claude · Sora · NoteBook LM · NanoBanan
 
 > Disponible pour une alternance BTS SIO à partir de septembre 2026.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Oscar-181717?logo=github)](https://github.com/oscar-bit08)
+[![GitHub](https://img.shields.io/badge/GitHub-Oscar-181717?logo=github)](https://github.com/TON_USERNAME)
