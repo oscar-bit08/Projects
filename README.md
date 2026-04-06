@@ -35,7 +35,7 @@ IA           → ChatGPT · Gemini · Claude · Sora · NoteBook LM · NanoBanan
 > Application web de recommandation de quartiers à Lyon (Projet NSI)
 
 * **Stack** : Flask · SQLite · Leaflet.js · Jinja2
-* Architecture OOP : `Zone`, `Preference`, `CalculateurScore`
+* Architecture POO : `Zone`, `Preference`, `CalculateurScore`
 * Carte interactive, scoring personnalisé selon critères socio-économiques
 
 ---
