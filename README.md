@@ -7,10 +7,15 @@
 ## 🛠️ Stack & compétences
 
 Langages     → Python · SQL · HTML/CSS · JavaScript · Bash
+
 Frameworks   → Flask · Jinja2 · Tkinter
+
 Bases        → SQLite · SQL Server
+
 Outils       → Linux (Ubuntu) · Docker · Git · VS Code · Spyder
+
 Autres       → Leaflet.js · Blender (3D) · Rufus · Excel · PowerPoint
+
 IA           → ChatGPT · Gemini · Claude · Sora · NoteBook LM · NanoBanana
 
 ---
