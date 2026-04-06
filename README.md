@@ -93,5 +93,6 @@ IA           → ChatGPT · Gemini · Claude · Sora · NoteBook LM · NanoBanan
 ## 📬 Me contacter
 
 > Disponible pour une alternance BTS SIO à partir de septembre 2026.
+> Toute mes coordonnées sont disponibles dans mon cv !
 
 [![GitHub](https://img.shields.io/badge/GitHub-oscar--bit08-181717?logo=github)](https://github.com/oscar-bit08)
